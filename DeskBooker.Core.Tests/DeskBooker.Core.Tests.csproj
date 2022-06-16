@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Deskbooker.Core\Deskbooker.Core.csproj" />
+  </ItemGroup>
+
 </Project>
